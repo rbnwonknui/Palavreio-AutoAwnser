@@ -10,3 +10,4 @@ if (url === "https://palavreio.app/unica") {
 } else {
     window.location.href = "https://palavreio.app/";
 }
+// apenas indexando carai
