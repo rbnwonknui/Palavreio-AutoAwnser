@@ -1,7 +1,7 @@
 (function() {
     'use strict';
 
-    // Configurações do script
+    // Configurações do scripts
     const CONFIG = {
         localStorage_key: 'palavreio_game_v2_2',
         modal_display_time: 1000,
