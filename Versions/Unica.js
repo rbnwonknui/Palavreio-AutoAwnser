@@ -5,7 +5,7 @@
     const CONFIG = {
         localStorage_key: 'palavreio_game_v2_1',
         modal_display_time: 1000,
-        notification_display_time: 5000,
+        notification_display_time: 15000,
         animation_duration: 500
     };
 
